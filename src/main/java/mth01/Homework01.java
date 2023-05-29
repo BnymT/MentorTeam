@@ -1,5 +1,7 @@
 package mth01;
 
+import mthhard.HomeworkFactory;
+
 import java.util.Scanner;
 
 public class Homework01 {
@@ -82,6 +84,8 @@ public class Homework01 {
 
 
         }
+
+        int a = 5;
 
     }
 
